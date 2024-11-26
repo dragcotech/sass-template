@@ -1,4 +1,4 @@
-Install SASS 
+-  Install SASS 
 ```
 npm install sass --save-dev
 ```
